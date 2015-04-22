@@ -30,7 +30,7 @@ module.exports = function (grunt) {
     // Project settings
     config: config,
 
-    gh-pages: {
+    'gh-pages': {
       options: {
         base: 'dist'
       },
